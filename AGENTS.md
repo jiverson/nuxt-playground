@@ -1,4 +1,3 @@
-
 # Agent Instructions
 
 This project is a Nuxt 4 application using Tailwind CSS.
@@ -9,7 +8,6 @@ This project is a Nuxt 4 application using Tailwind CSS.
 - Lint: `pnpm lint` (fix: `pnpm lint:fix`)
 - Dev: `pnpm dev` (runs db + Next.js with turbopack)
 - No test framework configured
-
 
 ## General Guidelines
 - **Simplicity First:** Write code as simple and readable as possible. Avoid unnecessary abstractions, over-engineering, or complex patterns.
